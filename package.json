@@ -1,0 +1,12 @@
+{
+  "name": "StudentsClient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fatmaalsmadi/StudentsClient",
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
